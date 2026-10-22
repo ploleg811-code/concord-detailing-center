@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ploleg811-code.github.io/concord-detailing-center/sitemap.xml
